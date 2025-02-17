@@ -1,0 +1,166 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Camping Tents API",
+    "description": "API for managing Pawna Lake Camping data including tents, camps, villas, and more."
+  },
+  "host": "localhost:3000",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/{category}": {
+      "get": {
+        "summary": "Get all items in a category",
+        "description": "Retrieve all items for a specific category such as tents, camps, villas, etc.",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "Category name (e.g., tents, camps, villas)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of items in the category",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "summary": "Add a new item to a category",
+        "description": "Create a new item in a specific category.",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "Category name (e.g., tents, camps, villas)"
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "type": "object"
+            },
+            "description": "New item data"
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Item created successfully"
+          }
+        }
+      }
+    },
+    "/{category}/{id}": {
+      "get": {
+        "summary": "Get a specific item by ID",
+        "description": "Retrieve a specific item from a category by its ID.",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "Category name (e.g., tents, camps, villas)"
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "ID of the item"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Item data",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "404": {
+            "description": "Item not found"
+          }
+        }
+      },
+      "put": {
+        "summary": "Update an existing item",
+        "description": "Modify the details of a specific item in a category.",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "Category name (e.g., tents, camps, villas)"
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "ID of the item"
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "type": "object"
+            },
+            "description": "Updated item data"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Item updated successfully"
+          },
+          "404": {
+            "description": "Item not found"
+          }
+        }
+      },
+      "delete": {
+        "summary": "Delete an item",
+        "description": "Remove a specific item from a category by its ID.",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "Category name (e.g., tents, camps, villas)"
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string",
+            "description": "ID of the item"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Item deleted successfully"
+          },
+          "404": {
+            "description": "Item not found"
+          }
+        }
+      }
+    }
+  }
+}

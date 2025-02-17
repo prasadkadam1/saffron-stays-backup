@@ -1,0 +1,137 @@
+{
+  "treehouses": [
+    {
+      "campName": "Whispering Woods Treehouse",
+      "type": "Eco-friendly",
+      "suitableFor": "Fits 6 Adults",
+      "freeServices": [
+        "Complimentary Drinks",
+        "Free WiFi"
+      ],
+      "refundPolicy": "Non-Refundable",
+      "prices": {
+        "actual": 26910,
+        "afterDiscount": 20006
+      },
+      "roomsInACamp": [
+        {
+          "type": "1 Bedroom",
+          "beds": "1 Double Bed",
+          "capacity": "sleeps 2 guests"
+        }
+      ],
+      "about": {
+        "info": "Whispering Woods Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ratnagiri.",
+        "images": [
+          "https://www.hireacamp.com/api/external/image?name=uploads/44fbe17c52a9484b8bd59ef69478cd4d.jpeg&size=1080x1080&q=75",
+          "https://www.hireacamp.com/api/external/image?name=uploads/ce455ec6563f4d85a76db2702037ead3.jpeg&size=640x640&q=75"
+        ]
+      },
+      "address": {
+        "landmark": "Landmark near Whispering Woods Treehouse",
+        "village": "Pawna Nagar",
+        "tal": "Chiplun",
+        "dist": "Ratnagiri",
+        "location": "https://maps.app.goo.gl/Spot100Location",
+        "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+      },
+      "amenities": [
+        "Garden",
+        "Restaurant",
+        "Caretaker",
+        "Swimming Pool",
+        "Bonfire"
+      ],
+      "propertyLayout": {
+        "roomOptions": [
+          {
+            "img": "https://www.hireacamp.com/api/external/image?name=uploads/8489975ca07245a4b2a87cff29382b9b.jpeg&size=3840x3840&q=75",
+            "qty": 2,
+            "name": "Family Suite",
+            "beds": "1 Double Bed",
+            "extra": "Lake View"
+          }
+        ],
+        "sharedOptions": [
+          {
+            "img": "https://www.hireacamp.com/api/external/image?name=uploads/c6e0c9b721284c3f9b3331fb058bafb3.jpeg&size=3840x3840&q=75",
+            "qty": 2,
+            "name": "Shared Kitchen",
+            "beds": "",
+            "extra": []
+          }
+        ]
+      },
+      "foodDining": [
+        {
+          "isMealProvided": true,
+          "mealsOffered": [
+            "Dinner",
+            "Breakfast"
+          ],
+          "veg": true,
+          "nonVeg": true,
+          "isOutsideFoodAllowed": "true"
+        }
+      ],
+      "date": "",
+      "ratings": {
+        "location": 5.0,
+        "cleanliness": 4.6,
+        "valueForMoney": 3.2,
+        "food": 4.0,
+        "facilities": 3.6,
+        "checkInExperience": 4.8
+      },
+      "reviews": [
+        {
+          "custName": "Akshay Sathe",
+          "date": "Aug 19, 2024",
+          "categoryUsed": "Luxury Apartment",
+          "review": "Enjoyed the serene environment and the facilities.",
+          "rating": "4.6",
+          "imgs": [
+            "https://www.hireacamp.com/api/external/image?name=uploads/84f8eea30b694125b340d911f533462c.jpeg&size=640x640&q=75"
+          ]
+        }
+      ],
+      "id": "1",
+      "cancellationPolicy": "Non-refundable after booking.",
+      "specialPackages": [
+        {
+          "name": "Family Adventure Package",
+          "price": 3000
+        }
+      ],
+      "activitiesDetails": [
+        {
+          "name": "Bird Watching",
+          "difficulty": "Easy",
+          "duration": "2 hours",
+          "price": 500
+        }
+      ],
+      "dynamicPricing": {
+        "weekday": {
+          "actual": 12000,
+          "discounted": 9600
+        },
+        "weekend": {
+          "actual": 15000,
+          "discounted": 12000
+        },
+        "peakSeason": {
+          "actual": 18000,
+          "discounted": 15000
+        }
+      },
+      "localAttractions": [
+        {
+          "name": "Sunset Point",
+          "distance": "3 km",
+          "description": "A stunning viewpoint to watch the sunset over the hills."
+        }
+      ]
+    }
+  ]
+}

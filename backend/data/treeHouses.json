@@ -1,0 +1,4581 @@
+{
+    "treehouses": [
+        {
+            "campName": "Whispering Woods Treehouse",
+            "type": "Eco-friendly",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Complimentary Drinks",
+                "Free WiFi"
+            ],
+            "prices": {
+                "actual": 26910,
+                "afterDiscount": 20006
+            },
+            "about": {
+                "info": "Whispering Woods Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ratnagiri.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/44fbe17c52a9484b8bd59ef69478cd4d.jpeg&size=1080x1080&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ce455ec6563f4d85a76db2702037ead3.jpeg&size=640x640&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ea80357adff54671b5dd89ad150a0399.jpeg&size=640x640&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/84f8eea30b694125b340d911f533462c.jpeg&size=640x640&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c6e0c9b721284c3f9b3331fb058bafb3.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Whispering Woods Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Chiplun",
+                "dist": "Ratnagiri",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 5.0,
+                "cleanliness": 4.6,
+                "valueForMoney": 3.2,
+                "food": 4.0,
+                "facilities": 3.6,
+                "checkInExperience": 4.8
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Aug 19, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/84f8eea30b694125b340d911f533462c.jpeg&size=640x640&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Jul 29, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/84f8eea30b694125b340d911f533462c.jpeg&size=640x640&q=75"
+                    ]
+                }
+            ],
+            "id": 1,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Garden",
+                "Restaurant",
+                "Caretaker"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8489975ca07245a4b2a87cff29382b9b.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/c6e0c9b721284c3f9b3331fb058bafb3.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Mystic Pines Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free WiFi",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 12557,
+                "afterDiscount": 7697
+            },
+            "about": {
+                "info": "Mystic Pines Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Nashik.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0cc6fad6023c4e778efa8f7c13b2112b.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2bb83f1ebc8345c494bc1e66779aad7a.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/46f8da2df2714845bdd0a4526061c077.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f3648a3b425e4d11a5b21d1b25a2dea6.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6d3436b4320a452f855d3980278ef9fb.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Mystic Pines Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Igatpuri",
+                "dist": "Nashik",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.3,
+                "cleanliness": 3.9,
+                "valueForMoney": 4.5,
+                "food": 3.8,
+                "facilities": 3.8,
+                "checkInExperience": 3.6
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Aug 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0f5c502ef2894065a98262446bc2bfec.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Jan 21, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3405e00f61084614aa28755129d79eaa.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 2,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Restaurant",
+                "Barbeque",
+                "Swimming Pool"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2bb83f1ebc8345c494bc1e66779aad7a.jpeg&size=3840x3840&q=75",
+                        "qty": 5,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/6d3436b4320a452f855d3980278ef9fb.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Shared bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Tranquil Nest Treehouse",
+            "type": "Luxury",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free WiFi",
+                "Complimentary Drinks",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 21077,
+                "afterDiscount": 16515
+            },
+            "about": {
+                "info": "Tranquil Nest Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Nagpur.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3a0916ed95a24a2488ef6ce967178354.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3e80c8751b1d4453a3e44aec598aa54b.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2de9dedae6744ce5a97ac32c9ace733e.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ec54eaa9dab49a3b1877d9f3cbc3ae7.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8cda04be77fb418ab20dc9984ebb6ed5.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Tranquil Nest Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Hingna",
+                "dist": "Nagpur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.3,
+                "cleanliness": 4.7,
+                "valueForMoney": 4.7,
+                "food": 4.1,
+                "facilities": 3.6,
+                "checkInExperience": 4.8
+            },
+            "reviews": [
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Aug 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0dc4bc6dd1de4a7eab32a3f423a0adde.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Dec 14, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/cad15a7bf0f5412b8c2c2f2cf8735138.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Sep 29, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/dcbdb62504fb401a92fb26db217a56c2.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f6ca3b3adb8c4c9980144cf4eaa40bb0.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 3,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Caretaker",
+                "Swimming Pool",
+                "Barbeque",
+                "Bonfire",
+                "Restaurant",
+                "Game Room"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/98a76d7e61394b0faf249777bbe1629f.jpeg&size=3840x3840&q=75",
+                        "qty": 1,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/5ebbdb852a22449594610318394cd349.jpeg&size=1920x1920&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Golden Canopy Retreat",
+            "type": "Couple",
+            "suitableFor": "Fits Large Groups",
+            "freeServices": [
+                "Free WiFi",
+                "Free Parking",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 28638,
+                "afterDiscount": 20325
+            },
+            "about": {
+                "info": "Golden Canopy Retreat provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ahmednagar.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/cf473175d1cf48cc959352b5098f4e60.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/93e71a7e143648de8d668347bc3c44b1.png&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/90aeea5ef2eb4da0b312b5aa265c5bcb.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/752f609c5e4f4afb97ec83f5c7a69084.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ae2b8a1abe93400eb144ab8c11d9d50c.jpg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Golden Canopy Retreat",
+                "village": "Pawna Nagar",
+                "tal": "Shirdi",
+                "dist": "Ahmednagar",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.0,
+                "valueForMoney": 4.3,
+                "food": 3.5,
+                "facilities": 4.6,
+                "checkInExperience": 4.5
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Jan 13, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f698eaa1cf494b649d1488f4fbe09a18.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Dec 12, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f698eaa1cf494b649d1488f4fbe09a18.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Jan 19, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f698eaa1cf494b649d1488f4fbe09a18.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Aug 09, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f698eaa1cf494b649d1488f4fbe09a18.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Nov 02, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f698eaa1cf494b649d1488f4fbe09a18.jpg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 4,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Bonfire",
+                "Caretaker",
+                "Barbeque",
+                "Garden",
+                "Swimming Pool",
+                "Restaurant"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/30d19c906881415fb6eff2b93f0020f4.jpg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/f698eaa1cf494b649d1488f4fbe09a18.jpg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Emerald Haven Treehouse",
+            "type": "Deluxe",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free WiFi",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 16154,
+                "afterDiscount": 13119
+            },
+            "about": {
+                "info": "Emerald Haven Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Sindhudurg.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/baf14112611347deaf32b963aabdd9ee.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3dda37f259e44f2a93c19845cfb3b9f6.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/d7626f5f40454f308d34a65dae8e6eb9.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0bb0228df74f422d99e51fe162ab32d7.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ee8558a5f07b495ca562a4e7256bba08.png&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Emerald Haven Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Malvan",
+                "dist": "Sindhudurg",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.7,
+                "cleanliness": 4.5,
+                "valueForMoney": 4.4,
+                "food": 4.6,
+                "facilities": 4.0,
+                "checkInExperience": 3.7
+            },
+            "reviews": [
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 22, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/14a84a4dc7db46c399144c7862872582.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Oct 07, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/14a84a4dc7db46c399144c7862872582.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Sep 18, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3dda37f259e44f2a93c19845cfb3b9f6.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 5,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Barbeque",
+                "Game Room",
+                "Garden",
+                "Swimming Pool",
+                "Caretaker",
+                "Bonfire"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/3dda37f259e44f2a93c19845cfb3b9f6.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/3d3b36e52fbc459d86ef48ef5f9d6fd1.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Starlit Skies Treehouse",
+            "type": "Family",
+            "suitableFor": "Fits Large Groups",
+            "freeServices": [
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 12502,
+                "afterDiscount": 8471
+            },
+            "about": {
+                "info": "Starlit Skies Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Kolhapur.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3dda37f259e44f2a93c19845cfb3b9f6.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/01739abc28a84ea6ac64a7b32b5d7faa.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/4847345db2114bb19a6ac9c6b736e6e4.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/33a594b6edc14b3989653e639e85edc0.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a6f1d5e1452649409c09ba2d17f2774f.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Starlit Skies Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Panhala",
+                "dist": "Kolhapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.4,
+                "cleanliness": 4.0,
+                "valueForMoney": 3.3,
+                "food": 4.1,
+                "facilities": 3.9,
+                "checkInExperience": 4.7
+            },
+            "reviews": [
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Aug 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a6f1d5e1452649409c09ba2d17f2774f.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Nov 08, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1ee0c3683cb34c3e85719442574977a2.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Oct 08, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1ee0c3683cb34c3e85719442574977a2.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 6,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Bonfire",
+                "Game Room",
+                "Swimming Pool",
+                "Caretaker"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/9b5163fe1cc742f891c978c2cc205670.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/5e24501318d547e8a77b884d27fe30c3.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Forest Haven Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 9379,
+                "afterDiscount": 7300
+            },
+            "about": {
+                "info": "Forest Haven Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Thane.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1512b98b872e4f46bc3e1d9f85be42ce.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1ee0c3683cb34c3e85719442574977a2.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/11242814204e494ebd495649eda202f4.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c3f63b9260ff418b9aace1695144fdf6.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ba688fad481f4461a1a0b21d3d79da39.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Forest Haven Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.1,
+                "cleanliness": 4.1,
+                "valueForMoney": 3.0,
+                "food": 3.6,
+                "facilities": 4.0,
+                "checkInExperience": 4.1
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Jul 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1ee0c3683cb34c3e85719442574977a2.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Dec 03, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1ee0c3683cb34c3e85719442574977a2.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 22, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ba688fad481f4461a1a0b21d3d79da39.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Sep 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4e00d6520e8f4dd8a7c6f386602fd62e.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 7,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Game Room",
+                "Swimming Pool",
+                "Barbeque",
+                "Bonfire",
+                "Garden",
+                "Restaurant"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/411e59320c144ed9821041355c25de5a.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8f3e5e142e7f48d4b5eb9a58abedf5f8.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Aurora Heights Treehouse",
+            "type": "Deluxe",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Complimentary Drinks",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 19825,
+                "afterDiscount": 12608
+            },
+            "about": {
+                "info": "Aurora Heights Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Thane.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6ae9f5f6dbd3461d852336c3e70dd791.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/cb034e15fc144655bad97e9f61d6da82.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7f2eb105a8fd4a8b992c1966b74b5ad8.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/27f250138d96466cade8d6e14c5f35e5.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7cdd8393eab34393b05e12a4b31ed165.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Aurora Heights Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.6,
+                "cleanliness": 4.0,
+                "valueForMoney": 4.3,
+                "food": 4.6,
+                "facilities": 3.6,
+                "checkInExperience": 4.6
+            },
+            "reviews": [
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Aug 17, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/7cdd8393eab34393b05e12a4b31ed165.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Dec 12, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9f1fd9ab6b9745eb8d2791b5d0bb4c44.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Jan 19, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/94907c9369b445059172242f772e52e6.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 8,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Game Room",
+                "Caretaker",
+                "Garden",
+                "Swimming Pool",
+                "Bonfire",
+                "Barbeque"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8f3e5e142e7f48d4b5eb9a58abedf5f8.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/f8525fa1dcf444589107db9ea4952771.jpeg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Sunset Grove Treehouse",
+            "type": "Eco-friendly",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Free Parking",
+                "Free WiFi"
+            ],
+            "prices": {
+                "actual": 17067,
+                "afterDiscount": 12724
+            },
+            "about": {
+                "info": "Sunset Grove Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ratnagiri.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/49f78755d55242b69fda6027cf0441f6.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ada569b343da490c8104d988496bd9af.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/afd5e9bf1b50401abc5b18398ee66ab4.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/374f68deb0c94a0c95701a53a9607f77.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/063a96a02bd14423ba8be6f50c191416.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Sunset Grove Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Chiplun",
+                "dist": "Ratnagiri",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.6,
+                "cleanliness": 4.7,
+                "valueForMoney": 3.4,
+                "food": 4.7,
+                "facilities": 4.9,
+                "checkInExperience": 3.6
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Nov 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/374f68deb0c94a0c95701a53a9607f77.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/92714364a5b44074ad58b4142804e4f3.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 9,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Bonfire",
+                "Garden",
+                "Restaurant"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/4a7a8473de4b47c285be2e72b3bc05e3.jpeg&size=1920x1920&q=75",
+                        "qty": 5,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/0baf380cea134feb85561e0cf4eafd20.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Lakeside Breeze Treehouse",
+            "type": "Family",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 21938,
+                "afterDiscount": 15910
+            },
+            "about": {
+                "info": "Lakeside Breeze Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Aurangabad.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/641c3223a3154c16bbc58135edb74665.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8efb7488d45942a18d77cddf0854f71b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/57f8affa8bc248f4ae529cc4e6ab4ffd.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/4a80bcdf899c411cadb01e2f9b190647.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7e5e366f50dd4b6596004312d8852926.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Lakeside Breeze Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Paithan",
+                "dist": "Aurangabad",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.2,
+                "valueForMoney": 3.1,
+                "food": 3.6,
+                "facilities": 3.9,
+                "checkInExperience": 3.8
+            },
+            "reviews": [
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Nov 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/57f8affa8bc248f4ae529cc4e6ab4ffd.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Oct 07, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/42d246c9c3ae439097442380155d8ba2.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Sep 24, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/57f8affa8bc248f4ae529cc4e6ab4ffd.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Oct 31, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9d50558cd7b9435ea92495e2ce85ac1e.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Jan 21, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/83bb1f8e8220408cbd3bb412418a522e.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 10,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Bonfire",
+                "Swimming Pool",
+                "Restaurant"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/14ff87d087494b31a7d5a7c324002b16.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/5e24501318d547e8a77b884d27fe30c3.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Hidden Paradise Treehouse",
+            "type": "Deluxe",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Complimentary Drinks",
+                "Free Parking"
+            ],
+            "prices": {
+                "actual": 16754,
+                "afterDiscount": 10943
+            },
+            "about": {
+                "info": "Hidden Paradise Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ratnagiri.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c3750f5b25da41fbbbe3c9c026a663dd.jpeg&size=1080x1080&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/83bb1f8e8220408cbd3bb412418a522e.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/15af3b607cd04210bbaffa0a5ea1ae39.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/83bb1f8e8220408cbd3bb412418a522e.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f5d58889d9324dfda0340bb9f5fe9c23.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Hidden Paradise Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Chiplun",
+                "dist": "Ratnagiri",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.5,
+                "cleanliness": 3.9,
+                "valueForMoney": 4.8,
+                "food": 4.5,
+                "facilities": 4.8,
+                "checkInExperience": 4.8
+            },
+            "reviews": [
+                {
+                    "custName": "Amol Patil",
+                    "date": "Sep 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/8e84d23650954b0ab483dde770fafb5d.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Aug 12, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1b2a3ad2f1884f12b007974b60a6e3c7.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Oct 29, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/8e84d23650954b0ab483dde770fafb5d.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 15, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ee29982d75a949afbba4efed13d74d0c.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 11,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Restaurant",
+                "Swimming Pool",
+                "Game Room"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/ada569b343da490c8104d988496bd9af.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/0baf380cea134feb85561e0cf4eafd20.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Cloud Nine Treehouse",
+            "type": "Eco-friendly",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 11002,
+                "afterDiscount": 8334
+            },
+            "about": {
+                "info": "Cloud Nine Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Thane.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/18ed894a79fb4c17a6a1bba5f8ccce2d.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2e0f7610a0df49e5b6f500c8520902e8.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ebcd48d0caa04c14b00de66b67addda7.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0c4d7aa3b5174efdbf72e6f27311af4c.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8f52a0c1b4ee4839b614ac64c28ab692.jpeg&size=1920x1920&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Cloud Nine Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.1,
+                "cleanliness": 4.8,
+                "valueForMoney": 4.0,
+                "food": 4.3,
+                "facilities": 3.7,
+                "checkInExperience": 4.2
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a49384ddb2b040aa8a9ea560f33853e3.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Dec 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/8e84d23650954b0ab483dde770fafb5d.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Sep 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f96584a2fc7e4670aeb6c3cbf0a74329.jpeg&size=1080x1080&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Nov 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/18ed894a79fb4c17a6a1bba5f8ccce2d.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Dec 14, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f96584a2fc7e4670aeb6c3cbf0a74329.jpeg&size=1080x1080&q=75"
+                    ]
+                }
+            ],
+            "id": 12,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Swimming Pool",
+                "Garden",
+                "Caretaker",
+                "Game Room",
+                "Bonfire"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/04bee1d1876e47949e9bbd46dccd2389.jpeg&size=1920x1920&q=75",
+                        "qty": 4,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/4554a52941be48f5a1970e652f5724f9.jpeg&size=1920x1920&q=75",
+                        "qty": 1,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Serene Heights Treehouse",
+            "type": "Luxury",
+            "suitableFor": "Fits Large Groups",
+            "freeServices": [
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 21789,
+                "afterDiscount": 13911
+            },
+            "about": {
+                "info": "Serene Heights Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Aurangabad.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c53fb477898945dcb9016094d14cf2f9.jpeg&size=1200x1200&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/44f93d1a3e1640a6a3cf2843b84aacd5.jpeg&size=1080x1080&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7ed6246b25ab4ccabacdb97eb649aae8.jpeg&size=1080x1080&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/50fa988ff2164f5ba2ede4161ab0b26d.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/d0114f04e5844a36a0469a6f826bfa65.jpeg&size=1920x1920&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Serene Heights Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Paithan",
+                "dist": "Aurangabad",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.8,
+                "cleanliness": 4.2,
+                "valueForMoney": 4.5,
+                "food": 4.5,
+                "facilities": 3.9,
+                "checkInExperience": 4.3
+            },
+            "reviews": [
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Aug 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a3dcd059d7cf478c8fe0115fb7a88163.jpeg&size=1080x1080&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Aug 29, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c53fb477898945dcb9016094d14cf2f9.jpeg&size=1200x1200&q=75"
+                    ]
+                }
+            ],
+            "id": 13,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Caretaker",
+                "Swimming Pool",
+                "Restaurant",
+                "Bonfire",
+                "Garden"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/4cb7b19519c34c8c9eae14ef2bfd6e40.jpeg&size=828x828&q=75",
+                        "qty": 5,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8f3e5e142e7f48d4b5eb9a58abedf5f8.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Wildflower Retreat Treehouse",
+            "type": "Deluxe",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free WiFi",
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 4567,
+                "afterDiscount": 3583
+            },
+            "about": {
+                "info": "Wildflower Retreat Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Satara.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a3dcd059d7cf478c8fe0115fb7a88163.jpeg&size=1080x1080&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8b27e1ddfa954ebbb5c8c75c7f2eccd1.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f8525fa1dcf444589107db9ea4952771.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1228e7bd39e44397b7ac9b79682faf82.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1657cbc468af48a9834c70130ac1b4ae.jpg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Wildflower Retreat Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Mahabaleshwar",
+                "dist": "Satara",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.7,
+                "cleanliness": 4.4,
+                "valueForMoney": 3.0,
+                "food": 4.1,
+                "facilities": 4.0,
+                "checkInExperience": 4.6
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Sep 19, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a3dcd059d7cf478c8fe0115fb7a88163.jpeg&size=1080x1080&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Aug 17, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/7889b708c97343cf9b413bff5b939698.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 14,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Caretaker",
+                "Restaurant",
+                "Game Room",
+                "Barbeque",
+                "Bonfire",
+                "Swimming Pool"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/968d553f75194d8ca4932f3c94439a0e.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/324af7d7215f4320a0a4bc12606b6972.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Crystal Ridge Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Parking"
+            ],
+            "prices": {
+                "actual": 13439,
+                "afterDiscount": 10174
+            },
+            "about": {
+                "info": "Crystal Ridge Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Satara.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f31bcbdc12bf4fb785bc97c8f50b58bc.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/267258150793433782efccfe5ac9812c.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/93cd6d9dd1604837b1766227d30d1174.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1228e7bd39e44397b7ac9b79682faf82.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/00296ca788704df99723caa84a7066df.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Crystal Ridge Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Mahabaleshwar",
+                "dist": "Satara",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.6,
+                "cleanliness": 3.8,
+                "valueForMoney": 4.2,
+                "food": 3.9,
+                "facilities": 3.9,
+                "checkInExperience": 4.0
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Aug 01, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/00296ca788704df99723caa84a7066df.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 19, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/8615eb7a7e9c4e2bbd669c0192e21f4e.jpg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 15,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Game Room",
+                "Caretaker",
+                "Garden",
+                "Swimming Pool",
+                "Restaurant",
+                "Bonfire"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/415a927bf4fa4d8e850bc9fcecab0b61.png&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/3c046402e25a4d649aa46b60b14ee7c0.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Moonlit Meadow Treehouse",
+            "type": "Deluxe",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Complimentary Drinks",
+                "Free Parking"
+            ],
+            "prices": {
+                "actual": 25253,
+                "afterDiscount": 17276
+            },
+            "about": {
+                "info": "Moonlit Meadow Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ratnagiri.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/00296ca788704df99723caa84a7066df.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7889b708c97343cf9b413bff5b939698.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/324af7d7215f4320a0a4bc12606b6972.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8615eb7a7e9c4e2bbd669c0192e21f4e.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8f3e5e142e7f48d4b5eb9a58abedf5f8.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Moonlit Meadow Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Chiplun",
+                "dist": "Ratnagiri",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.8,
+                "cleanliness": 4.5,
+                "valueForMoney": 3.9,
+                "food": 3.8,
+                "facilities": 4.7,
+                "checkInExperience": 4.0
+            },
+            "reviews": [
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Jan 19, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/267258150793433782efccfe5ac9812c.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Jan 20, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/8b27e1ddfa954ebbb5c8c75c7f2eccd1.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Aug 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f31bcbdc12bf4fb785bc97c8f50b58bc.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Jul 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f8525fa1dcf444589107db9ea4952771.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 16,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Garden",
+                "Bonfire",
+                "Restaurant",
+                "Swimming Pool"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/514ac2b15f304887bf8e25df6bace5ea.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/30407008727d43b1b10d0515a48faf63.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Harmony Cove Treehouse",
+            "type": "Luxury",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Complimentary Drinks",
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 23574,
+                "afterDiscount": 18550
+            },
+            "about": {
+                "info": "Harmony Cove Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Nagpur.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/508655fa8dbf48429884af19e71abaee.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/32882d3c90184fc28a9d8cf4ac65a17f.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6f90a433cb4c41239c13bcc2c902d3ca.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/e98b85658acf40179d61c934d2fd140c.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c239ac5f1dfd400d951603b43b524ca9.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Harmony Cove Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Hingna",
+                "dist": "Nagpur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.8,
+                "cleanliness": 3.9,
+                "valueForMoney": 3.8,
+                "food": 4.0,
+                "facilities": 4.8,
+                "checkInExperience": 4.7
+            },
+            "reviews": [
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Nov 05, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9acd388e813e4672a94f8a3ef698794b.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/415a927bf4fa4d8e850bc9fcecab0b61.png&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Oct 06, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0a075a00394f497097f17f8aba0152ad.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Aug 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/51f7a41fc3274f2c825bec3985bcd4f9.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 17,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Game Room",
+                "Barbeque",
+                "Restaurant",
+                "Caretaker"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/d1724c7a4bc848c399e16b9c7ad52cec.jpeg&size=2048x2048&q=75",
+                        "qty": 5,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/3c046402e25a4d649aa46b60b14ee7c0.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Golden Horizon Treehouse",
+            "type": "Eco-friendly",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 9056,
+                "afterDiscount": 6136
+            },
+            "about": {
+                "info": "Golden Horizon Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Ratnagiri.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ad2fabb057194b168a6239e602a099d3.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/cc527459fd314356a88021aebab9eb98.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/fa26bac03aa648c8ab4e583c67cccc1e.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/514ac2b15f304887bf8e25df6bace5ea.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/5f49d83e82b74c0cb4e1e0dbd69e2c02.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Golden Horizon Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Chiplun",
+                "dist": "Ratnagiri",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.6,
+                "cleanliness": 5.0,
+                "valueForMoney": 4.2,
+                "food": 4.4,
+                "facilities": 4.8,
+                "checkInExperience": 3.6
+            },
+            "reviews": [
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Aug 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ab7348f96e7a4ec8be21a7112d980c68.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/e9db87967a664549b2dc2d2490c182c5.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Sep 05, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/514ac2b15f304887bf8e25df6bace5ea.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Jan 02, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5f49d83e82b74c0cb4e1e0dbd69e2c02.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Aug 18, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/fa26bac03aa648c8ab4e583c67cccc1e.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 18,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Barbeque",
+                "Bonfire",
+                "Swimming Pool",
+                "Garden"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/697b5beea0464b0f80ae3fc25965618d.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/f5fd00f05e044225a3b9331fe5cc904c.jpeg&size=1920x1920&q=75",
+                        "qty": 2,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Silver Stream Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 17714,
+                "afterDiscount": 13520
+            },
+            "about": {
+                "info": "Silver Stream Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Kolhapur.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/fa38647709c14ac2bc3feb2d86ca86d1.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/cc527459fd314356a88021aebab9eb98.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/30407008727d43b1b10d0515a48faf63.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ab7348f96e7a4ec8be21a7112d980c68.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/e9db87967a664549b2dc2d2490c182c5.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Silver Stream Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Panhala",
+                "dist": "Kolhapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.4,
+                "cleanliness": 5.0,
+                "valueForMoney": 4.1,
+                "food": 4.5,
+                "facilities": 4.0,
+                "checkInExperience": 3.7
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Oct 05, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6a99a6cecff94409a08d59bdd614819c.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Nov 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/514ac2b15f304887bf8e25df6bace5ea.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Oct 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/cc527459fd314356a88021aebab9eb98.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 19,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Barbeque",
+                "Swimming Pool",
+                "Restaurant",
+                "Game Room",
+                "Garden"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/02b4284edb2e4c1086c43f1a35f68fe0.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/94601fb7f60444d39ff6db8f9a66c844.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Nature's Whisper Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Breakfast"
+            ],
+            "prices": {
+                "actual": 18695,
+                "afterDiscount": 13402
+            },
+            "about": {
+                "info": "Nature's Whisper Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Kolhapur.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/19e0903f068343f696332976438c3ad5.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b29ebb057945442092579d4abe3565b6.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1aef33178bd44b8bbf923522b9723f01.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6bde12315d88459181bdaab6dd1acc7f.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b163b709d12c46d3b520d770bdb013e4.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Nature's Whisper Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Panhala",
+                "dist": "Kolhapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.5,
+                "cleanliness": 3.5,
+                "valueForMoney": 3.8,
+                "food": 5.0,
+                "facilities": 4.6,
+                "checkInExperience": 4.1
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Oct 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b29ebb057945442092579d4abe3565b6.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6a99a6cecff94409a08d59bdd614819c.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Jan 14, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/63777c0a528641c28a14cf5555e723a3.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 24, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b29ebb057945442092579d4abe3565b6.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 20,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Caretaker",
+                "Game Room",
+                "Bonfire",
+                "Swimming Pool",
+                "Restaurant"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/70787368ac9a474390fb2bd341b778dd.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/609f672c5e134d9e8663c5f5971790c2.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Valley View Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Complimentary Drinks",
+                "Free WiFi"
+            ],
+            "prices": {
+                "actual": 12477,
+                "afterDiscount": 9534
+            },
+            "about": {
+                "info": "Valley View Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Thane.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/47f0e69946304fbfaa90b817714cbec5.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3560759e0382422a8ee809c5c3107403.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ff502d27e3784aebbacad09d80d658bc.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f5fd00f05e044225a3b9331fe5cc904c.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/16c746347971409598d237a13aaf3eed.jpeg&size=1920x1920&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Valley View Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.3,
+                "cleanliness": 4.7,
+                "valueForMoney": 3.8,
+                "food": 3.7,
+                "facilities": 4.5,
+                "checkInExperience": 4.4
+            },
+            "reviews": [
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Oct 19, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c1845401b74143aaa0e80e5c5600970e.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Aug 22, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/16c746347971409598d237a13aaf3eed.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Nov 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ff502d27e3784aebbacad09d80d658bc.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Oct 18, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9f1fd9ab6b9745eb8d2791b5d0bb4c44.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 21,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Barbeque",
+                "Caretaker",
+                "Swimming Pool",
+                "Bonfire",
+                "Restaurant"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/697b5beea0464b0f80ae3fc25965618d.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Family Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/b2b1cde8114145928be05fdfd57de0fe.jpeg&size=1920x1920&q=75",
+                        "qty": 2,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Summit Serenity Treehouse",
+            "type": "Eco-friendly",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Complimentary Drinks",
+                "Free Parking"
+            ],
+            "prices": {
+                "actual": 10513,
+                "afterDiscount": 6877
+            },
+            "about": {
+                "info": "Summit Serenity Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Thane.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c1845401b74143aaa0e80e5c5600970e.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2deec5c978e24663b971639998785465.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/111eb4201a9349059b906e2fd83a52d6.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f5fd00f05e044225a3b9331fe5cc904c.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b7a5a86a9f2e46a8abaf3f307f24450d.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Summit Serenity Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.9,
+                "valueForMoney": 4.7,
+                "food": 3.8,
+                "facilities": 3.5,
+                "checkInExperience": 3.8
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Sep 12, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/7cdd8393eab34393b05e12a4b31ed165.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Jan 11, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ff502d27e3784aebbacad09d80d658bc.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Nov 03, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/655ea695bae94e0894d05d8283ebef9e.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/697b5beea0464b0f80ae3fc25965618d.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Dec 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b7a5a86a9f2e46a8abaf3f307f24450d.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 22,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Garden",
+                "Barbeque",
+                "Caretaker"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/35ac409f0b224ba4a767e6fddec4e181.jpeg&size=1200x1200&q=75",
+                        "qty": 3,
+                        "name": "Deluxe Room",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2bfcdbcfba7240758d3d69758051ffa7.jpeg&size=1200x1200&q=75",
+                        "qty": 1,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Ocean Breeze Treehouse",
+            "type": "Couple",
+            "suitableFor": "Fits Large Groups",
+            "freeServices": [
+                "Free Parking",
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 4329,
+                "afterDiscount": 3008
+            },
+            "about": {
+                "info": "Ocean Breeze Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Pune.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0fe12dd90e7244738c4891eb86e61f33.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/9cbb684790bf4571838c957c21438d74.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0484cbd5b82140229c3d654684c66ae8.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/63fe88c68943493d9da5b072fbec483d.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3fc3738eaef74f8788b3e9160b61ebdc.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Ocean Breeze Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Maval",
+                "dist": "Pune",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.8,
+                "valueForMoney": 4.5,
+                "food": 4.2,
+                "facilities": 4.4,
+                "checkInExperience": 4.6
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Aug 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9cbb684790bf4571838c957c21438d74.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Dec 31, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/14758cc57538428db64fa05fc15ebe76.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 23,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Game Room",
+                "Bonfire",
+                "Restaurant",
+                "Barbeque",
+                "Swimming Pool"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/08fa6f4610304c3181b597a435099335.jpeg&size=1200x1200&q=75",
+                        "qty": 2,
+                        "name": "Honeymoon Suite",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/ff502d27e3784aebbacad09d80d658bc.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Amber Glow Treehouse",
+            "type": "Family",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Complimentary Drinks"
+            ],
+            "prices": {
+                "actual": 8404,
+                "afterDiscount": 5919
+            },
+            "about": {
+                "info": "Amber Glow Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Sindhudurg.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3261a00b070e4a1f856a3af9279349ac.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8e06281081024c93b224f5572252e553.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a6151980e44445d29dfcc67c5b89a885.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/431b004f60d64c748c685ae0432e930a.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/4494f647d3174f53a76a9c0362cff3db.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Amber Glow Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Malvan",
+                "dist": "Sindhudurg",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.7,
+                "cleanliness": 4.8,
+                "valueForMoney": 4.3,
+                "food": 3.6,
+                "facilities": 4.8,
+                "checkInExperience": 4.9
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4494f647d3174f53a76a9c0362cff3db.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Dec 31, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c56bdadcb92448feb8a0de5b36240d85.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 24,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Restaurant",
+                "Caretaker",
+                "Garden",
+                "Barbeque"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/ff502d27e3784aebbacad09d80d658bc.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Deluxe Room",
+                        "beds": "1 Double Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/ea77a6d42ebe476da331a86d9d9511dc.jpeg&size=1200x1200&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        },
+        {
+            "campName": "Twilight Haven Treehouse",
+            "type": "Family",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Complimentary Drinks",
+                "Free Parking"
+            ],
+            "prices": {
+                "actual": 12956,
+                "afterDiscount": 8449
+            },
+            "about": {
+                "info": "Twilight Haven Treehouse provides a luxurious retreat with modern amenities, perfectly located in the scenic district of Nashik.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a4b26af927a14f7ca526f5069a990b5c.jpeg&size=1200x1200&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6ede298a8563437681c065f4384660e9.jpeg&size=1200x1200&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/caa7a25d5dbb4b5d9985983806df6d53.jpeg&size=1200x1200&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/cb7f337407ab4bf6ba97dd799f210a21.jpeg&size=1080x1080&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/58a7b2e44a274dc1bfab37eead03a465.jpeg&size=1200x1200&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Twilight Haven Treehouse",
+                "village": "Pawna Nagar",
+                "tal": "Igatpuri",
+                "dist": "Nashik",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "date": "",
+            "ratings": {
+                "location": 4.0,
+                "cleanliness": 4.7,
+                "valueForMoney": 4.5,
+                "food": 4.0,
+                "facilities": 5.0,
+                "checkInExperience": 4.0
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Jan 14, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/044aea31161943c79c79726db5cf7767.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Jan 20, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/58a7b2e44a274dc1bfab37eead03a465.jpeg&size=1200x1200&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Nov 12, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/cb7f337407ab4bf6ba97dd799f210a21.jpeg&size=1080x1080&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Aug 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1c849169e8d2462dbc2d15e4f8ef1ac9.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Nov 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a41933e7a2bf4a9b85569d0600512dad.jpeg&size=1080x1080&q=75"
+                    ]
+                }
+            ],
+            "id": 25,
+            "refundPolicy": "Non-Refundable",
+            "roomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "sleeps 2 guests"
+                }
+            ],
+            "amenities": [
+                "Barbeque",
+                "Game Room",
+                "Restaurant",
+                "Garden",
+                "Swimming Pool",
+                "Caretaker"
+            ],
+            "propertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/5f49d83e82b74c0cb4e1e0dbd69e2c02.jpeg&size=2048x2048&q=75",
+                        "qty": 5,
+                        "name": "Deluxe Room",
+                        "beds": "1 Double Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/b29ebb057945442092579d4abe3565b6.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "foodDining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "cancellationPolicy": "Non-refundable after booking.",
+            "specialPackages": [
+                {
+                    "name": "Family Adventure Package",
+                    "price": 3000
+                }
+            ],
+            "activitiesDetails": [
+                {
+                    "name": "Bird Watching",
+                    "difficulty": "Easy",
+                    "duration": "2 hours",
+                    "price": 500
+                }
+            ],
+            "dynamicPricing": {
+                "weekday": {
+                    "actual": 12000,
+                    "discounted": 9600
+                },
+                "weekend": {
+                    "actual": 15000,
+                    "discounted": 12000
+                },
+                "peakSeason": {
+                    "actual": 18000,
+                    "discounted": 15000
+                }
+            },
+            "localAttractions": [
+                {
+                    "name": "Sunset Point",
+                    "distance": "3 km",
+                    "description": "A stunning viewpoint to watch the sunset over the hills."
+                }
+            ],
+            "uniqueFeatures": [
+                "Scenic views",
+                "Eco-friendly stay",
+                "Adventure activities"
+            ],
+            "healthAndSafety": {
+                "emergencyContact": "+91-9999999999",
+                "firstAidAvailable": true,
+                "covidPrecautions": "Sanitized regularly, masks mandatory in common areas."
+            },
+            "transportation": {
+                "nearestAirport": "45 km",
+                "nearestRailwayStation": "20 km",
+                "shuttleService": false
+            },
+            "weather": {
+                "currentTemp": "25\u00b0C",
+                "forecast": [
+                    "Sunny",
+                    "Cloudy",
+                    "Light Showers"
+                ]
+            }
+        }
+    ]
+}

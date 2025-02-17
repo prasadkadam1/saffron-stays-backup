@@ -1,0 +1,3300 @@
+{
+    "camps": [
+        {
+            "campName": "Mystic Forest Camp",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Parking"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 4407,
+                "afterDiscount": 3267
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Mystic Forest Camp offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7f27074cdff24be7a403ab889ad6e141.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f05b560446c84f54bae90498177d804c.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6cf0adc2f85d4fec80111f37429b8b5b.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/323e8c77fa27409788651c9253b5ee78.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2e22cb2ca0d149f1a5050a35793a481d.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Mystic Forest Camp",
+                "village": "Village near Mystic Forest Camp",
+                "tal": "Alibag",
+                "dist": "Raigad",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Barbeque",
+                "Bonfire",
+                "Game Room",
+                "Swimming Pool",
+                "Lawn"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/323e8c77fa27409788651c9253b5ee78.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Luxury Tent",
+                        "beds": "2 Queen Beds",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/77021a128dff4c7d912ea3ad35bb1a46.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Snacks",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.3,
+                "valueForMoney": 4.0,
+                "food": 4.2,
+                "facilities": 4.7,
+                "checkInExperience": 3.9
+            },
+            "reviews": [
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 08, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b636176dc3dc486a9a3131a6426d4470.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Sep 24, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2226f5960cfc4c23b0e5bab420016eb6.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Nov 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/7f27074cdff24be7a403ab889ad6e141.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 1
+        },
+        {
+            "campName": "Starry Sky Retreat",
+            "type": "Family Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Dinner",
+                "Free Bonfire",
+                "Free WiFi"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 14645,
+                "afterDiscount": 10111
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Starry Sky Retreat offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7f27074cdff24be7a403ab889ad6e141.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1f14c392850649738a0e2fd82cc09c74.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0ba2a870468b4bc3851f36c547df4744.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/0e28142dada2497ca39ebae1deb5e963.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/5caece575ab44347bfe665f2e64a8a39.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Starry Sky Retreat",
+                "village": "Village near Starry Sky Retreat",
+                "tal": "Shirdi",
+                "dist": "Ahmednagar",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Restaurant",
+                "Bonfire",
+                "Swimming Pool"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/0a27a7826a0147fab542d1a0eac709e5.jpeg&size=3840x3840&q=75",
+                        "qty": 4,
+                        "name": "Luxury Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/a7bb69afd6404ad3b346e0475a06d2b5.jpeg&size=1920x1920&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": [
+                            "Toiletries",
+                            "Hair Dryer"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Breakfast",
+                        "Snacks",
+                        "Lunch"
+                    ],
+                    "veg": true,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.4,
+                "valueForMoney": 4.4,
+                "food": 4.6,
+                "facilities": 3.8,
+                "checkInExperience": 4.3
+            },
+            "reviews": [
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Nov 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/756bb63bcb1a4307962553a0a1ba9813.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0903519f7e7f483f82aab6d1e13a2c94.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Jul 30, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0a27a7826a0147fab542d1a0eac709e5.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/69a5e0cd29634004adce11c46c9b35e7.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Jan 21, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/cdc665a6bc2445b09f5db8be0e6b370a.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/dd2f1150a7ae45c9b39324a7dc245c1f.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Jan 07, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1f14c392850649738a0e2fd82cc09c74.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/e18fe653643345ebb9a5ba42614f3636.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 2
+        },
+        {
+            "campName": "Whispering Pines Camp",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Dinner",
+                "Free WiFi",
+                "Free Bonfire"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 4683,
+                "afterDiscount": 3500
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Whispering Pines Camp offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/54cc1abf9f154d199a142eeb599bc93f.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a86a77375e2f4e65bff73087d89d9855.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/eaaf66bdcf35478380b17f830154c200.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1b8dd08f24ff403295ef1f209f091f00.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/d2d4ff1d7bf4451f9fc9b11bd5a48001.jpeg&size=1920x1920&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Whispering Pines Camp",
+                "village": "Village near Whispering Pines Camp",
+                "tal": "Tadoba",
+                "dist": "Chandrapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Lawn",
+                "Barbeque",
+                "Swimming Pool",
+                "Spa",
+                "Caretaker"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/b7d9b366cfa54f7ca7059023dbd3aeb7.jpeg&size=3840x3840&q=75",
+                        "qty": 1,
+                        "name": "Couple Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/6368268b1e0b4b7386a9f79a118afb9c.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": [
+                            "Toiletries",
+                            "Hair Dryer"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Snacks"
+                    ],
+                    "veg": false,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 3.6,
+                "valueForMoney": 3.5,
+                "food": 3.6,
+                "facilities": 4.1,
+                "checkInExperience": 4.8
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 12, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/28befef03622412f87f7b62e358844ca.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/40a49a14e8894773956cbb3f75827e15.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Jul 31, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/27f5080d31f7433fb25b46ee808fd23e.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/dd41444ed5164db68e0612dfc618ef6f.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Dec 03, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c4ed5273d1f9494a9139931a36411592.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1b8dd08f24ff403295ef1f209f091f00.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Oct 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/eaaf66bdcf35478380b17f830154c200.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b7d9b366cfa54f7ca7059023dbd3aeb7.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 3
+        },
+        {
+            "campName": "Golden Horizon Tents",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Bonfire",
+                "Free Dinner"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 4866,
+                "afterDiscount": 4284
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Golden Horizon Tents offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/e80e631e6be044e3834e88fb3b6c23e3.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/71eb086e606d4ccab4b4f246bceec7dd.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1ffe76eaf1da4ab2acc026ab395d83a6.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2af1145dcfdf403f81bd643f47528706.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/45307aa28b9445deb6e618672274fa9f.jpg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Golden Horizon Tents",
+                "village": "Village near Golden Horizon Tents",
+                "tal": "Shirdi",
+                "dist": "Ahmednagar",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Bonfire",
+                "Restaurant",
+                "Caretaker",
+                "Spa",
+                "Swimming Pool"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/028f782e24bf472e88ec23cb3f7cef1c.jpg&size=2048x2048&q=75",
+                        "qty": 5,
+                        "name": "Couple Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/cd6a0d3273cc4ee391a105ba40c7269f.jpg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Lunch"
+                    ],
+                    "veg": true,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 5.0,
+                "cleanliness": 3.7,
+                "valueForMoney": 3.3,
+                "food": 3.5,
+                "facilities": 4.8,
+                "checkInExperience": 4.3
+            },
+            "reviews": [
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Dec 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/71eb086e606d4ccab4b4f246bceec7dd.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/da915f733cb24585b3b93888252a5111.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Aug 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/e80e631e6be044e3834e88fb3b6c23e3.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b54e1b98a4d44ade9e45093f8b85dcc2.jpg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 4
+        },
+        {
+            "campName": "Riverbend Escape",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free Breakfast"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 10090,
+                "afterDiscount": 6414
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 Double Bed",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Riverbend Escape offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/62caf6df04c44cab8fc7214e7cda0288.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b1dcb8e754974f80b6e614e0de4c5ec0.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b723966a367e431c977a04d18215d07b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/88e4ab7341ac47eaae4186fef5e52f51.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/de4bf9fe73f6455ea5bb8c336ddf46b7.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Riverbend Escape",
+                "village": "Village near Riverbend Escape",
+                "tal": "Tumsar",
+                "dist": "Bhandara",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Swimming Pool",
+                "Bonfire",
+                "Barbeque"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/82341cd7e3394d19a0442209022c63da.jpeg&size=1920x1920&q=75",
+                        "qty": 4,
+                        "name": "Luxury Tent",
+                        "beds": "2 Queen Beds",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2ae8b0d469824d15a1291d71f3d86325.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Dinner"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.5,
+                "cleanliness": 4.0,
+                "valueForMoney": 3.1,
+                "food": 4.2,
+                "facilities": 3.9,
+                "checkInExperience": 3.6
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/7d509e9810124f35ad7b75b30b01bc54.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3d8f89a883434f49a6322ab8093994cd.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ed5c1a716da140ea93404e327923dfb7.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Oct 22, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c29a6a4f5cb648cd983d7209ae83c2e9.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0cfc18b7f1954056ac50401f332398ed.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/88e4ab7341ac47eaae4186fef5e52f51.jpeg&size=2048x2048&q=75",
+                        ":https://www.hireacamp.com/api/external/image?name=uploads/2ae8b0d469824d15a1291d71f3d86325.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 24, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3afedacb4bac47a688605b06cb45f241.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/82341cd7e3394d19a0442209022c63da.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 5
+        },
+        {
+            "campName": "Aurora Camps",
+            "type": "Family Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free WiFi",
+                "Free Bonfire"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 9929,
+                "afterDiscount": 6110
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Aurora Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/d0694d7de17c45e282f6208dc5afbe61.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/df2c23c495d24f9999890ec69046f686.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/fa7856c3d1f14df58d21e503938e1fc2.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f0e3aeb1a60c46c39e5136d274a7bf7b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7d72d1e0beeb448d9dab79d5e0c1a5e6.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Aurora Camps",
+                "village": "Village near Aurora Camps",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Spa",
+                "Barbeque",
+                "Lawn"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2efee37de74b437799ab0cfe80f3de05.jpeg&size=1920x1920&q=75",
+                        "qty": 1,
+                        "name": "Couple Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/381c3119481d426d8e2a0510ceb4268b.jpeg&size=1920x1920&q=75",
+                        "qty": 1,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": [
+                            "Toiletries",
+                            "Hair Dryer"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch",
+                        "Dinner"
+                    ],
+                    "veg": false,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.1,
+                "cleanliness": 3.5,
+                "valueForMoney": 4.6,
+                "food": 4.1,
+                "facilities": 4.2,
+                "checkInExperience": 4.9
+            },
+            "reviews": [
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Jan 09, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/991fbceef91e4aecb9ecd22b955dfd4e.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f0e3aeb1a60c46c39e5136d274a7bf7b.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Aug 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b7481a1ed6db4a3f9eab2827b92d8ce5.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Dec 06, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d0694d7de17c45e282f6208dc5afbe61.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Dec 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3a1e500545ce4581aff2d4c6c7799f80.jpeg&size=828x828&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/8c368bf945d9473f9acf5d2b5af4b198.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Jul 30, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/7d72d1e0beeb448d9dab79d5e0c1a5e6.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4c2b3586bf6143c4820b07ca47f08bb9.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 6
+        },
+        {
+            "campName": "Hidden Valley Retreat",
+            "type": "Family Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free Breakfast"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 10255,
+                "afterDiscount": 9161
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Hidden Valley Retreat offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/dae53013db7f49448df35a8a1011e1cf.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f5f123df62fd447690532f3033ad4c07.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a7e5669b04624c0aa2e51f174f8114b6.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/547e786544d04cf79a2d02d2eba41cdb.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1063299f458441549d79d0f969e8b1be.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Hidden Valley Retreat",
+                "village": "Village near Hidden Valley Retreat",
+                "tal": "Malvan",
+                "dist": "Sindhudurg",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Bonfire",
+                "Restaurant",
+                "Swimming Pool",
+                "Caretaker"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8856b8216e444407be245d01e27d5f8d.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Luxury Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8b54db87f5584224829f101ab25759d2.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": [
+                            "Toiletries",
+                            "Hair Dryer"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Breakfast",
+                        "Lunch"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.0,
+                "cleanliness": 4.5,
+                "valueForMoney": 4.5,
+                "food": 4.5,
+                "facilities": 4.1,
+                "checkInExperience": 3.9
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Nov 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3685ce7b066043f0b72e999952f939b5.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/77b6c85df62042bca581ea94d60fc77e.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Jan 08, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c8ba17daa4624d638c9e7fdb08cb8320.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0b2c291356b949f8bf849e8f910e74c1.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Nov 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.4",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ab59830f49534149a9b0c61c1d6a84fa.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3c2ee8c14dad49eebc1b2fafb55095a9.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 7
+        },
+        {
+            "campName": "Emerald Lake Camps",
+            "type": "Couple Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Dinner"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 3266,
+                "afterDiscount": 2639
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Emerald Lake Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/d1b2fde09aeb41a4af831b0f151911b8.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/13a90955933743efac5d5e62f2d3f64e.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/e23a0e71f5864778862806b97ff66944.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/fb65cce9f7d1473ea79736a4b4789409.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/d4cbc9e3f97d4cdda212cd668334a9e9.jpeg&size=1920x1920&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Emerald Lake Camps",
+                "village": "Village near Emerald Lake Camps",
+                "tal": "Palghar",
+                "dist": "Thane",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Barbeque",
+                "Caretaker",
+                "Bonfire",
+                "Lawn",
+                "Game Room",
+                "Swimming Pool"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/13a90955933743efac5d5e62f2d3f64e.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Couple Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/1cfd32e39aff4335a61f1ed057888a56.jpeg&size=1920x1920&q=75",
+                        "qty": 1,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Dinner"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.6,
+                "cleanliness": 4.4,
+                "valueForMoney": 3.4,
+                "food": 4.1,
+                "facilities": 4.3,
+                "checkInExperience": 3.9
+            },
+            "reviews": [
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Sep 14, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a656eec9c48a482cac768778f92fe127.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d1b2fde09aeb41a4af831b0f151911b8.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Nov 18, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/13a90955933743efac5d5e62f2d3f64e.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Oct 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9a4c024e296648de8e6132d3095e89d6.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Jan 12, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0e2e3c3b43164ac7aa3c8931f36699f0.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Oct 11, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a4c4ff6462064eb6a8c806cec736c9c4.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 8
+        },
+        {
+            "campName": "Twilight Breeze Camps",
+            "type": "Family Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free WiFi"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 14850,
+                "afterDiscount": 10828
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Twilight Breeze Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c4b30dfdb6cb41a589cb8d3846df1cc4.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/64f18f39d4f7412a993de3a1b4c85d45.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/64f18f39d4f7412a993de3a1b4c85d45.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a18ddab4b24b4961a404b63ea5d2d314.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a18ddab4b24b4961a404b63ea5d2d314.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Twilight Breeze Camps",
+                "village": "Village near Twilight Breeze Camps",
+                "tal": "Maval",
+                "dist": "Pune",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Bonfire",
+                "Lawn",
+                "Spa"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/c4b30dfdb6cb41a589cb8d3846df1cc4.jpeg&size=2048x2048&q=75",
+                        "qty": 5,
+                        "name": "Luxury Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/61169542e51840db8d2e06c57c2b26b8.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Breakfast",
+                        "Lunch",
+                        "Snacks"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.5,
+                "cleanliness": 3.5,
+                "valueForMoney": 3.6,
+                "food": 4.0,
+                "facilities": 4.6,
+                "checkInExperience": 4.8
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Nov 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/61169542e51840db8d2e06c57c2b26b8.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a725ed2e3070465187f3df9e64045bab.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Aug 19, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2412f1b4b86647238e41686c50c6a97e.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/622954b944ef4fff8a0553c406d2d5c8.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Dec 26, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/622954b944ef4fff8a0553c406d2d5c8.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/622954b944ef4fff8a0553c406d2d5c8.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Nov 22, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/622954b944ef4fff8a0553c406d2d5c8.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/622954b944ef4fff8a0553c406d2d5c8.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 9
+        },
+        {
+            "campName": "Tranquil Trails",
+            "type": "Couple Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Dinner"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 9733,
+                "afterDiscount": 7837
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Tranquil Trails offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/73c13bdcade544c7869627267e0839d2.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/fa7a6483b5304640b0e3d31111ec4867.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/fa7a6483b5304640b0e3d31111ec4867.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f5642296daf34abcacac232e647db0a8.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f5642296daf34abcacac232e647db0a8.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Tranquil Trails",
+                "village": "Village near Tranquil Trails",
+                "tal": "Seloo",
+                "dist": "Wardha",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Restaurant",
+                "Swimming Pool",
+                "Game Room",
+                "Barbeque",
+                "Bonfire",
+                "Caretaker"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/73c13bdcade544c7869627267e0839d2.jpeg&size=2048x2048&q=75",
+                        "qty": 5,
+                        "name": "Couple Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/f5642296daf34abcacac232e647db0a8.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Toiletries",
+                            "Hair Dryer"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.7,
+                "cleanliness": 4.4,
+                "valueForMoney": 4.2,
+                "food": 4.4,
+                "facilities": 4.1,
+                "checkInExperience": 3.6
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Oct 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/f5642296daf34abcacac232e647db0a8.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d21655e7995a45a9a780be847e3dd623.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Dec 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d21655e7995a45a9a780be847e3dd623.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d21655e7995a45a9a780be847e3dd623.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Nov 03, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d21655e7995a45a9a780be847e3dd623.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d21655e7995a45a9a780be847e3dd623.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Nov 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/d21655e7995a45a9a780be847e3dd623.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 10
+        },
+        {
+            "campName": "Adventure Cove Tents",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free Dinner"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 10955,
+                "afterDiscount": 8364
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 Double Bed",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Adventure Cove Tents offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/8261738b211a4c439964dfc676d96372.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3644bbd96a1c464f9a5e58f4a79e657b.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3644bbd96a1c464f9a5e58f4a79e657b.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b956805b5a3548489589e7738262777f.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b956805b5a3548489589e7738262777f.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Adventure Cove Tents",
+                "village": "Village near Adventure Cove Tents",
+                "tal": "Seloo",
+                "dist": "Wardha",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Restaurant",
+                "Bonfire",
+                "Lawn",
+                "Game Room",
+                "Barbeque",
+                "Spa"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/8261738b211a4c439964dfc676d96372.jpeg&size=2048x2048&q=75",
+                        "qty": 5,
+                        "name": "Luxury Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/47bcd71725744d8cb6bd6811310dc4c9.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Snacks",
+                        "Dinner",
+                        "Lunch"
+                    ],
+                    "veg": false,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 3.9,
+                "valueForMoney": 4.5,
+                "food": 4.8,
+                "facilities": 4.2,
+                "checkInExperience": 4.0
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Aug 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/342119a9147a454ab18a636533139297.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5b24fe6766274c12ae9f305e94ddf482.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Dec 15, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/342119a9147a454ab18a636533139297.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/342119a9147a454ab18a636533139297.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Dec 04, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b956805b5a3548489589e7738262777f.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/342119a9147a454ab18a636533139297.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Dec 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b956805b5a3548489589e7738262777f.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Sep 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5b24fe6766274c12ae9f305e94ddf482.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 11
+        },
+        {
+            "campName": "Crimson Hill Camps",
+            "type": "Luxury Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free Breakfast",
+                "Free Dinner"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 13863,
+                "afterDiscount": 9230
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Crimson Hill Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/014fa118bd534926afb63bcbbf44f909.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6ca53f67c72847938d0fe40924d06ea0.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/bf73f02ed34d452280f240346e97e02a.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/014fa118bd534926afb63bcbbf44f909.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Crimson Hill Camps",
+                "village": "Village near Crimson Hill Camps",
+                "tal": "Igatpuri",
+                "dist": "Nashik",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Spa",
+                "Bonfire",
+                "Game Room",
+                "Restaurant",
+                "Barbeque",
+                "Lawn"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/014fa118bd534926afb63bcbbf44f909.jpeg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Family Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch"
+                    ],
+                    "veg": true,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 4.2,
+                "valueForMoney": 4.0,
+                "food": 4.9,
+                "facilities": 4.8,
+                "checkInExperience": 3.5
+            },
+            "reviews": [
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Aug 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Dec 20, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Sep 17, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Aug 13, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Oct 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/59d2ab8575bc4d018aece18feda561be.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 12
+        },
+        {
+            "campName": "Echo Valley Retreat",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free WiFi"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 10445,
+                "afterDiscount": 6969
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Echo Valley Retreat offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6736bdf84a384784bcd5373e6e760c2b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6736bdf84a384784bcd5373e6e760c2b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6736bdf84a384784bcd5373e6e760c2b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/9b36fe05d9ed463f826950099c9d4c42.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a7ebc663092c438aa2b64c8b72b0f65d.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Echo Valley Retreat",
+                "village": "Village near Echo Valley Retreat",
+                "tal": "Shirdi",
+                "dist": "Ahmednagar",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Restaurant",
+                "Swimming Pool",
+                "Spa",
+                "Caretaker"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/6736bdf84a384784bcd5373e6e760c2b.jpeg&size=3840x3840&q=75",
+                        "qty": 5,
+                        "name": "Family Tent",
+                        "beds": "1 King Bed",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/a7ebc663092c438aa2b64c8b72b0f65d.jpeg&size=3840x3840&q=75",
+                        "qty": 1,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Snacks",
+                        "Lunch",
+                        "Breakfast"
+                    ],
+                    "veg": false,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.0,
+                "cleanliness": 4.1,
+                "valueForMoney": 3.3,
+                "food": 4.8,
+                "facilities": 4.4,
+                "checkInExperience": 4.2
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Jan 07, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a7ebc663092c438aa2b64c8b72b0f65d.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/705ea8623dfa450f8d0c26f181edc706.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Nov 26, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/a7ebc663092c438aa2b64c8b72b0f65d.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Oct 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5c0d4f11725840d2a608728a6c632619.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5c0d4f11725840d2a608728a6c632619.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 13
+        },
+        {
+            "campName": "Forest Serenity Camps",
+            "type": "Luxury Tent",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Free Dinner"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 9293,
+                "afterDiscount": 7211
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "1 Double Bed",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Forest Serenity Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Forest Serenity Camps",
+                "village": "Village near Forest Serenity Camps",
+                "tal": "Igatpuri",
+                "dist": "Nashik",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Lawn",
+                "Caretaker",
+                "Restaurant",
+                "Barbeque",
+                "Spa",
+                "Bonfire"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Luxury Tent",
+                        "beds": "1 King Bed",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Snacks"
+                    ],
+                    "veg": false,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.7,
+                "cleanliness": 4.8,
+                "valueForMoney": 4.1,
+                "food": 3.8,
+                "facilities": 4.6,
+                "checkInExperience": 4.0
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 04, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/67d9efa7875041c0a3c0af7cfe70c2df.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Jan 07, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/52c963bfc14347c8940e68649fb732b2.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 14
+        },
+        {
+            "campName": "Ocean Breeze Camp",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free WiFi"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 10080,
+                "afterDiscount": 8486
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 6 guests"
+                }
+            ],
+            "about": {
+                "info": "Ocean Breeze Camp offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/67d9efa7875041c0a3c0af7cfe70c2df.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/049e584b0d4448aaa13dfafbb884f712.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/186f3d001e4640f79c61875dff841ce8.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/608abd96b68944e7b3e474aca31ac4ad.jpeg&size=640x640&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/186f3d001e4640f79c61875dff841ce8.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Ocean Breeze Camp",
+                "village": "Village near Ocean Breeze Camp",
+                "tal": "Mahabaleshwar",
+                "dist": "Satara",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Spa",
+                "Game Room",
+                "Barbeque",
+                "Bonfire",
+                "Swimming Pool",
+                "Restaurant"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/67d9efa7875041c0a3c0af7cfe70c2df.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Family Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/186f3d001e4640f79c61875dff841ce8.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch",
+                        "Breakfast",
+                        "Snacks"
+                    ],
+                    "veg": false,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.7,
+                "cleanliness": 3.9,
+                "valueForMoney": 4.0,
+                "food": 4.0,
+                "facilities": 4.2,
+                "checkInExperience": 4.6
+            },
+            "reviews": [
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Sep 19, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/186f3d001e4640f79c61875dff841ce8.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/def62e38bf764a268be8dc2b32c39c61.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Aug 03, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/e763e2789a934f5385dcbec842eae6ee.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d21d21f2e814c6bacea73d6c3f4983c.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Nov 01, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d21d21f2e814c6bacea73d6c3f4983c.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ae5458e0b67c44129d171a393ad55cee.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 15
+        },
+        {
+            "campName": "Summit Glow Tents",
+            "type": "Couple Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free WiFi"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 4669,
+                "afterDiscount": 3536
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Summit Glow Tents offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/9fb0f28738de47c2ad07de942cd68a87.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f8c8b9f2ef9d448ab9a6694e6023b016.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a9825cd7902b40a69a6670fafc707fba.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a9825cd7902b40a69a6670fafc707fba.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6a631467ff65412799a113a886822954.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Summit Glow Tents",
+                "village": "Village near Summit Glow Tents",
+                "tal": "Seloo",
+                "dist": "Wardha",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Game Room",
+                "Restaurant",
+                "Caretaker",
+                "Spa",
+                "Barbeque"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/9fb0f28738de47c2ad07de942cd68a87.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Luxury Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75",
+                        "qty": 2,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Dinner"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.8,
+                "cleanliness": 4.8,
+                "valueForMoney": 4.1,
+                "food": 3.8,
+                "facilities": 3.5,
+                "checkInExperience": 4.5
+            },
+            "reviews": [
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Nov 14, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Oct 08, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "3.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9fb0f28738de47c2ad07de942cd68a87.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Oct 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9df53be941a242bbbe503c4a5202cdc7.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 03, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/db74d81815fc49aca6c86e967ded3421.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 16
+        },
+        {
+            "campName": "Moonlight Meadows",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Bonfire",
+                "Free Breakfast",
+                "Free Parking"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 13369,
+                "afterDiscount": 8853
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Moonlight Meadows offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/df4a66ca2e0e4ce791e180fdfe165111.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/df4a66ca2e0e4ce791e180fdfe165111.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3481e5eaf4ff45efa92285d5b7fd160c.jpeg&size=1200x1200&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3481e5eaf4ff45efa92285d5b7fd160c.jpeg&size=1200x1200&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/3481e5eaf4ff45efa92285d5b7fd160c.jpeg&size=1200x1200&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Moonlight Meadows",
+                "village": "Village near Moonlight Meadows",
+                "tal": "Mahabaleshwar",
+                "dist": "Satara",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Caretaker",
+                "Spa",
+                "Lawn"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/df4a66ca2e0e4ce791e180fdfe165111.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Luxury Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/d507861e6612481fb068a18c12452115.jpeg&size=1200x1200&q=75",
+                        "qty": 1,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch"
+                    ],
+                    "veg": false,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.7,
+                "cleanliness": 3.7,
+                "valueForMoney": 3.2,
+                "food": 4.0,
+                "facilities": 4.5,
+                "checkInExperience": 4.1
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 26, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ec0123b958e84d1d9f1cf631f95843ad.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2a47932b7c104bf6966f5e2e6a1153f6.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Jan 19, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ec0123b958e84d1d9f1cf631f95843ad.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2a47932b7c104bf6966f5e2e6a1153f6.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Oct 01, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ec0123b958e84d1d9f1cf631f95843ad.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/9725dd2aa4524d038f58447a44535273.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Dec 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ec0123b958e84d1d9f1cf631f95843ad.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/b7da997ed6414b1b87bf80e817ef811e.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Sep 24, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ec0123b958e84d1d9f1cf631f95843ad.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 17
+        },
+        {
+            "campName": "Crescent Ridge Camps",
+            "type": "Couple Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Bonfire",
+                "Free Parking"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 12463,
+                "afterDiscount": 7953
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Crescent Ridge Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/b7da997ed6414b1b87bf80e817ef811e.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/47785b05e4484ff0b421b24b4449bce3.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/98aff1735be045c2bfa78c0f95e6f6ee.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/98aff1735be045c2bfa78c0f95e6f6ee.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/98aff1735be045c2bfa78c0f95e6f6ee.jpeg&size=1920x1920&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Crescent Ridge Camps",
+                "village": "Village near Crescent Ridge Camps",
+                "tal": "Maval",
+                "dist": "Pune",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Barbeque",
+                "Swimming Pool",
+                "Restaurant",
+                "Caretaker",
+                "Game Room"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/b7da997ed6414b1b87bf80e817ef811e.jpeg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Family Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Mountain View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/98aff1735be045c2bfa78c0f95e6f6ee.jpeg&size=1920x1920&q=75",
+                        "qty": 2,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch"
+                    ],
+                    "veg": true,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.7,
+                "cleanliness": 3.9,
+                "valueForMoney": 3.7,
+                "food": 4.2,
+                "facilities": 3.6,
+                "checkInExperience": 4.3
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Jul 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/ab26a4f24f9c4e7099a2d15c67e380b8.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6c87d4a2e95a4106a3fad0c4fd86f89c.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Aug 05, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Excellent service and comfortable stay.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/e015a2d2391f42b1ac8c78599f787f3b.jpeg&size=828x828&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Jan 19, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6c87d4a2e95a4106a3fad0c4fd86f89c.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Oct 30, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6c87d4a2e95a4106a3fad0c4fd86f89c.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Nov 25, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75"
+                    ]
+                }
+            ],
+            "id": 18
+        },
+        {
+            "campName": "Lakeside Bliss",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Bonfire"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 3680,
+                "afterDiscount": 3107
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "1 Bedroom",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Lakeside Bliss offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/245ac75ccf994760b9ff86379f146513.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/245ac75ccf994760b9ff86379f146513.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Lakeside Bliss",
+                "village": "Village near Lakeside Bliss",
+                "tal": "Warud",
+                "dist": "Amravati",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Spa",
+                "Caretaker",
+                "Swimming Pool"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75",
+                        "qty": 4,
+                        "name": "Family Tent",
+                        "beds": "1 King Bed",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2ce63f3c44c0409aacc2a188b12ec81e.jpeg&size=1920x1920&q=75",
+                        "qty": 2,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Lunch",
+                        "Breakfast"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.8,
+                "cleanliness": 4.9,
+                "valueForMoney": 4.5,
+                "food": 4.5,
+                "facilities": 4.2,
+                "checkInExperience": 4.0
+            },
+            "reviews": [
+                {
+                    "custName": "Rohan Deshmukh",
+                    "date": "Dec 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.8",
+                    "imgs": [
+                        "img1Url"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Sep 17, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "3.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c59ddbbf5b664f46b422c1bc9f823e0f.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6748310434724aa59a18d022fb6596d7.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sanjana Bhise",
+                    "date": "Aug 22, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6748310434724aa59a18d022fb6596d7.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Nov 06, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6748310434724aa59a18d022fb6596d7.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 19
+        },
+        {
+            "campName": "Sapphire Sands Retreat",
+            "type": "Family Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free WiFi",
+                "Free Parking",
+                "Free Bonfire"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 11869,
+                "afterDiscount": 7273
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Sapphire Sands Retreat offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/ab0fbad5560447788603bc909d9e6093.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Sapphire Sands Retreat",
+                "village": "Village near Sapphire Sands Retreat",
+                "tal": "Tadoba",
+                "dist": "Chandrapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Swimming Pool",
+                "Lawn",
+                "Bonfire"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/ab0fbad5560447788603bc909d9e6093.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Couple Tent",
+                        "beds": "2 Queen Beds",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2c38bdaded6d43508c1ec8b142d291cc.jpeg&size=3840x3840&q=75",
+                        "qty": 3,
+                        "name": "Shared Bathroom",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Snacks",
+                        "Dinner"
+                    ],
+                    "veg": false,
+                    "non-veg": false,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.9,
+                "cleanliness": 3.7,
+                "valueForMoney": 3.3,
+                "food": 4.4,
+                "facilities": 5.0,
+                "checkInExperience": 4.5
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Sep 21, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "3.8",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5e88faf11daa41e593fbe22a7f8fe55c.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2c38bdaded6d43508c1ec8b142d291cc.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 04, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/24ad2478d1294f01b57462d3e67f05fe.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 20
+        },
+        {
+            "campName": "Golden Dawn Camps",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free Dinner"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 13108,
+                "afterDiscount": 10366
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 4 guests"
+                }
+            ],
+            "about": {
+                "info": "Golden Dawn Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f49e57e3cbc84698937c6acf51573677.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/f49e57e3cbc84698937c6acf51573677.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a3b37f573acd41dbba764971cd84eb6b.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/7a13a8ab41d14332a50c9a19ece636a7.jpg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/a3b37f573acd41dbba764971cd84eb6b.jpg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Golden Dawn Camps",
+                "village": "Village near Golden Dawn Camps",
+                "tal": "Alibag",
+                "dist": "Raigad",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Caretaker",
+                "Spa",
+                "Barbeque",
+                "Restaurant",
+                "Bonfire",
+                "Game Room"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/f49e57e3cbc84698937c6acf51573677.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Luxury Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Garden View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/f49e57e3cbc84698937c6acf51573677.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Lunch",
+                        "Breakfast",
+                        "Snacks",
+                        "Dinner"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 3.5,
+                "cleanliness": 4.6,
+                "valueForMoney": 4.1,
+                "food": 4.5,
+                "facilities": 4.3,
+                "checkInExperience": 4.5
+            },
+            "reviews": [
+                {
+                    "custName": "Amol Patil",
+                    "date": "Dec 28, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A wonderful place to unwind with friends and family.",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/c0fcbaf09cc047c095ed1c8fcf6566f6.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0ac5dc3d574146b58f7a4b5f48d0438b.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Sep 30, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0ac5dc3d574146b58f7a4b5f48d0438b.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/3e80b957fe454abc8b2557eeba888001.jpg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 21
+        },
+        {
+            "campName": "Cloud Nine Retreat",
+            "type": "Family Tent",
+            "suitableFor": "Fits 2 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Free Dinner",
+                "Free Parking"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 10293,
+                "afterDiscount": 7934
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 King Bed",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Cloud Nine Retreat offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/46b0355419564481a0234a5046701ade.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/6b9a7dd7d1244d72a832e07a8cae1f63.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/4f052e1241c84a4a99d3d490e411ccd8.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/4f052e1241c84a4a99d3d490e411ccd8.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/4d5d2f05b7804719af93ff51c20c99f4.jpg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Cloud Nine Retreat",
+                "village": "Village near Cloud Nine Retreat",
+                "tal": "Pandharpur",
+                "dist": "Solapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Restaurant",
+                "Bonfire",
+                "Lawn",
+                "Barbeque"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/46b0355419564481a0234a5046701ade.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Family Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/6b9a7dd7d1244d72a832e07a8cae1f63.jpeg&size=2048x2048&q=75",
+                        "qty": 2,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Lunch",
+                        "Snacks"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "true"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.4,
+                "cleanliness": 4.2,
+                "valueForMoney": 4.7,
+                "food": 3.7,
+                "facilities": 4.0,
+                "checkInExperience": 4.5
+            },
+            "reviews": [
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Oct 10, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4d5d2f05b7804719af93ff51c20c99f4.jpg&size=2048x2048&q=75img1Url",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4d5d2f05b7804719af93ff51c20c99f4.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Jan 03, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4d5d2f05b7804719af93ff51c20c99f4.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5de851b7dff94db981a28ba1646c31f7.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 06, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4d5d2f05b7804719af93ff51c20c99f4.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/5de851b7dff94db981a28ba1646c31f7.jpg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Nov 13, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4d5d2f05b7804719af93ff51c20c99f4.jpg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/6b9a7dd7d1244d72a832e07a8cae1f63.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 22
+        },
+        {
+            "campName": "Majestic Mountain Tents",
+            "type": "Couple Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Dinner"
+            ],
+            "refundPolicy": "Partially Refundable",
+            "prices": {
+                "actual": 2603,
+                "afterDiscount": 1999
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "2 Single Beds",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Majestic Mountain Tents offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/c62cf6e082c4424bb71edfe0bf1ec47f.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/91ac0083eef24039bcbeaaae8870fc2c.jpeg&size=1920x1920&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/34c425f45aa64ffc9de10833a6cfa437.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/01f1a3400f294c30ba5c847173f9820b.jpeg&size=3840x3840&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/01f1a3400f294c30ba5c847173f9820b.jpeg&size=3840x3840&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Majestic Mountain Tents",
+                "village": "Village near Majestic Mountain Tents",
+                "tal": "Dhanora",
+                "dist": "Gadchiroli",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Bonfire",
+                "Restaurant",
+                "Caretaker",
+                "Swimming Pool",
+                "Game Room"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/c62cf6e082c4424bb71edfe0bf1ec47f.jpeg&size=3840x3840&q=75",
+                        "qty": 5,
+                        "name": "Couple Tent",
+                        "beds": "1 King Bed",
+                        "extra": "City View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/91ac0083eef24039bcbeaaae8870fc2c.jpeg&size=1920x1920&q=75",
+                        "qty": 1,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": [
+                            "Microwave",
+                            "Refrigerator"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": true,
+                    "mealsOffered": [
+                        "Snacks"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.8,
+                "cleanliness": 4.7,
+                "valueForMoney": 4.0,
+                "food": 4.9,
+                "facilities": 3.8,
+                "checkInExperience": 4.1
+            },
+            "reviews": [
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Aug 04, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Highly recommended for nature lovers!",
+                    "rating": "4.1",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/01f1a3400f294c30ba5c847173f9820b.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/66cffbbec765451ebdcc5142e8c224a1.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Aug 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "3.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/01f1a3400f294c30ba5c847173f9820b.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/66cffbbec765451ebdcc5142e8c224a1.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Kiran Gaikwad",
+                    "date": "Dec 23, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "5.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/01f1a3400f294c30ba5c847173f9820b.jpeg&size=3840x3840&q=75"
+                    ]
+                },
+                {
+                    "custName": "Swapnil Shinde",
+                    "date": "Aug 01, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Amazing experience! The location was perfect for a relaxing stay.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/096db96dd94242778936d6c0b86c269e.jpeg&size=3840x3840&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/0700eb49149342e38bb840407b33273a.jpeg&size=3840x3840&q=75"
+                    ]
+                }
+            ],
+            "id": 23
+        },
+        {
+            "campName": "Valley View Camps",
+            "type": "Luxury Tent",
+            "suitableFor": "Fits 6 Adults",
+            "freeServices": [
+                "Free Breakfast",
+                "Free WiFi"
+            ],
+            "refundPolicy": "Fully Refundable",
+            "prices": {
+                "actual": 5693,
+                "afterDiscount": 3524
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "Studio",
+                    "beds": "1 Double Bed",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Valley View Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/46e3e31bbb734b8d97afb50590ca3d88.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/46e3e31bbb734b8d97afb50590ca3d88.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/46e3e31bbb734b8d97afb50590ca3d88.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/46e3e31bbb734b8d97afb50590ca3d88.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Valley View Camps",
+                "village": "Village near Valley View Camps",
+                "tal": "Pandharpur",
+                "dist": "Solapur",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Caretaker",
+                "Game Room",
+                "Swimming Pool",
+                "Restaurant",
+                "Spa"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Luxury Tent",
+                        "beds": "1 Queen Bed + Sofa",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/46e3e31bbb734b8d97afb50590ca3d88.jpeg&size=2048x2048&q=75",
+                        "qty": 3,
+                        "name": "Shared Lounge",
+                        "beds": "",
+                        "extra": [
+                            "Toiletries",
+                            "Hair Dryer"
+                        ]
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Lunch"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.0,
+                "cleanliness": 3.8,
+                "valueForMoney": 4.2,
+                "food": 3.6,
+                "facilities": 4.0,
+                "checkInExperience": 3.5
+            },
+            "reviews": [
+                {
+                    "custName": "Neha Pawar",
+                    "date": "Oct 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Loved the amenities and the cleanliness of the property.",
+                    "rating": "4.6",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/46e3e31bbb734b8d97afb50590ca3d88.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Oct 27, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4b2e404bf1604dc690ef04a03238da35.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Amol Patil",
+                    "date": "Oct 13, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "A memorable stay with outstanding service.",
+                    "rating": "3.9",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/4b2e404bf1604dc690ef04a03238da35.jpeg&size=1920x1920&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Jan 04, 2025",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Perfect getaway spot near the city.",
+                    "rating": "4.0",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 24
+        },
+        {
+            "campName": "Harmony Retreat Camps",
+            "type": "Backpacker Tent",
+            "suitableFor": "Fits 4 Adults",
+            "freeServices": [
+                "Free Parking",
+                "Free WiFi"
+            ],
+            "refundPolicy": "Non-Refundable",
+            "prices": {
+                "actual": 9981,
+                "afterDiscount": 7729
+            },
+            "RoomsInACamp": [
+                {
+                    "type": "2 Bedrooms",
+                    "beds": "1 Double Bed",
+                    "capacity": "Sleeps 2 guests"
+                }
+            ],
+            "about": {
+                "info": "Harmony Retreat Camps offers a serene camping experience near natural attractions, with modern amenities, breathtaking views, and various activities to enjoy.",
+                "images": [
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75",
+                    "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75"
+                ]
+            },
+            "address": {
+                "lanndmark": "Landmark near Harmony Retreat Camps",
+                "village": "Village near Harmony Retreat Camps",
+                "tal": "Maval",
+                "dist": "Pune",
+                "location": "https://maps.app.goo.gl/Spot100Location",
+                "map": "<iframe src='https://www.google.com/maps/embed?pb=...' width='600' height='450' style='border:0;'></iframe>"
+            },
+            "Amenities": [
+                "Spa",
+                "Restaurant",
+                "Barbeque"
+            ],
+            "PropertyLayout": {
+                "RoomOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                        "qty": 4,
+                        "name": "Luxury Tent",
+                        "beds": "1 King Bed",
+                        "extra": "Lake View"
+                    }
+                ],
+                "sharedOptions": [
+                    {
+                        "img": "https://www.hireacamp.com/api/external/image?name=uploads/2ce6b55753ea4095aa023474b2985465.jpeg&size=2048x2048&q=75",
+                        "qty": 1,
+                        "name": "Shared Kitchen",
+                        "beds": "",
+                        "extra": []
+                    }
+                ]
+            },
+            "Food&Dining": [
+                {
+                    "isMealProvided": false,
+                    "mealsOffered": [
+                        "Dinner",
+                        "Snacks"
+                    ],
+                    "veg": true,
+                    "non-veg": true,
+                    "isOutsideFoodAllowed": "false"
+                }
+            ],
+            "date": "",
+            "ratings": {
+                "location": 4.2,
+                "cleanliness": 4.9,
+                "valueForMoney": 4.6,
+                "food": 4.8,
+                "facilities": 3.8,
+                "checkInExperience": 4.6
+            },
+            "reviews": [
+                {
+                    "custName": "Sneha Jadhav",
+                    "date": "Nov 07, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "Enjoyed the serene environment and the facilities.",
+                    "rating": "4.5",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Akshay Sathe",
+                    "date": "Oct 26, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.3",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/435429f87ae94c8f8ee9531e7363657a.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Aditi Kulkarni",
+                    "date": "Sep 16, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The food was great, and the view was breathtaking!",
+                    "rating": "4.2",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75"
+                    ]
+                },
+                {
+                    "custName": "Pooja Gawde",
+                    "date": "Dec 18, 2024",
+                    "categoryUsed": "Luxury Apartment",
+                    "review": "The staff was very courteous and helpful.",
+                    "rating": "4.7",
+                    "imgs": [
+                        "https://www.hireacamp.com/api/external/image?name=uploads/1d79bc9ead224fb492cd2f0390d4daf5.jpeg&size=2048x2048&q=75",
+                        "https://www.hireacamp.com/api/external/image?name=uploads/435429f87ae94c8f8ee9531e7363657a.jpeg&size=2048x2048&q=75"
+                    ]
+                }
+            ],
+            "id": 25
+        }
+    ]
+}
